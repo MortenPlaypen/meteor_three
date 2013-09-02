@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "three.js": {}
+    },
+    "packages": {
+      "three.js": {
+        "git": "https://github.com/nozpheratu/three-meteor",
+        "tag": "v0.0.1",
+        "commit": "a437d4e0314b055b19cfc60fa9e1ddfac844a0d9"
+      }
+    }
+  }
+}
